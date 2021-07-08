@@ -1,9 +1,7 @@
 const humanCatDogYears = humanYears => {
     {
         let catYears, dogYears;
-        //if(humanYears <= 0 || typeof humanYears !== 'number'){
-         // return [0,0,0];
-        //}
+        
         if(humanYears === 1){
             catYears = 15;
             dogYears = 15;
